@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "danya",
+  "mongoUri": "mongodb+srv://danyap:1488@cluster0.dha2j.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
